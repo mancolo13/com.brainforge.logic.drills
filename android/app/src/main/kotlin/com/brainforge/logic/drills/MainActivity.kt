@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.brainforge.logic.drills
 
 import io.flutter.embedding.android.FlutterActivity
 
